@@ -1,7 +1,6 @@
-class ab
+class ab {
+  public staic void main(String args[])
   {
-  public staic void main()
-  {
-System.out.println("hello");
+        System.out.println("hello");
+ }
 }
-  }
